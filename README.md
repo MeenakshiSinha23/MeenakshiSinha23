@@ -47,13 +47,13 @@ Role: Data Analyst
 Role: Data Engineer  
 - Cleaned and structured user activity data.
 - Derived insights and patterns using SQL + Power BI.
-- 
+  
 ### 3. **Netflix Analysis**
 *Domain: Data Analytics & Visualization*  
 Role: Data Engineer  
 - Cleaned and structured user activity data.
-- Derived insights and patterns using Python using Jupyter.
-- 
+- Derived insights and patterns using Python on Jupyter.
+  
 ### 4. **Hospitality Analysis**
 *Domain: Data Analytics & Visualization*  
 Role: Data Engineer  
