@@ -16,9 +16,6 @@ Here's a visual representation of the technologies I use regularly:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 
-
-<sub>📝 *Replace the above link with your own hosted image*</sub>
-
 ---
 
 ## 💼 My Roles
@@ -32,9 +29,6 @@ Here's a visual representation of the technologies I use regularly:
 - 📊 **Data Analyst & Content Writer Intern**, Earth5R  
   Worked on sustainability data projects and content creation aligned with SDGs.
 
-- 👨‍🔬 **Research Intern**  
-  Writing a review paper under guidance of a professor at NSUT in the fields of astronomy and mathematics.
-
 - 📲 **Product Concept Lead**, Men's Skincare App  
   Leading product ideation and user research for a tech-based personalized skincare solution.
 
@@ -42,29 +36,31 @@ Here's a visual representation of the technologies I use regularly:
 
 ## 🚧 Projects
 
-### 1. **Men's Skincare App – Face Scan Based Customization**
-*Domain: AI + BeautyTech*  
-Role: Product Ideator, Research Lead  
-- Used surveys and data collection to uncover men’s skincare pain points.
-- Designed a prototype using facial analysis for patch recommendation.
-- Tech used: AI (vision), Figma, Python (backend concept), survey tools.
-
-### 2. **Ride Cancellation Analysis (SQL + Power BI)**
+### 1. **Ride Cancellation Analysis (SQL + Power BI)**
 *Domain: Data Analytics*  
 Role: Data Analyst  
 - Analyzed 10+ Excel files using MySQL.
 - Built Power BI dashboards to visualize and recommend improvements.
 
-### 3. **Spotify Analysis**
+### 2. **Spotify Analysis**
 *Domain: Data Analytics & Visualization*  
 Role: Data Engineer  
 - Cleaned and structured user activity data.
 - Derived insights and patterns using SQL + Power BI.
+- 
+### 3. **Netflix Analysis**
+*Domain: Data Analytics & Visualization*  
+Role: Data Engineer  
+- Cleaned and structured user activity data.
+- Derived insights and patterns using Python using Jupyter.
+- 
+### 4. **Hospitality Analysis**
+*Domain: Data Analytics & Visualization*  
+Role: Data Engineer  
+- Cleaned and structured user activity data.
+- Derived insights and patterns using SQL + Power BI.
+- Implemented Exploratory Data Analysis (EDA).
 
-### 4. **Astronomy Outreach & Workshop Projects**
-*Domain: Education, Astronomy*  
-Role: Team Lead  
-- Conducted workshops and built interactive content for school and college students.
 
 ---
 
