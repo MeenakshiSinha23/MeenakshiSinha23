@@ -8,7 +8,8 @@ Hi! I'm Meenakshi Sinha — a passionate and curious tech enthusiast currently i
 
 Here's a visual representation of the technologies I use regularly:
 
-![Tech Stack](https://files.chat.openai.com/user-uploads/1e69a28b-f3df-4f2a-bf4d-451df999aa2b/tech-stack-banner.png)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <sub>📝 *Replace the above link with your own hosted image*</sub>
 
